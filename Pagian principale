@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+        background-image: url("Sfondo.jpg");
+        background-size: cover;
+    }
+    </style>
+    <title>Schede personaggio del gioco di ruolo di Conte</title>
+</head>
+<body>
+Buongiorno o Buonasera miei cari avventurieri, questo sito è stato realizzato per voi, in caso vorreste vedere o 
+possedere maggiori informazioni su i seguenti personaggi. Anche le classi e le armature che potrete possedere o 
+che già possedete verranno inserite, poiché così avrete una visione più approfondita del nostro mondo di gioco. Ma ora ciancio alle bande iniziamo,
+il sito si dividerà in varie schede dove verrà inserito il personaggio e le sue abilità, le sue connessioni con fazioni/regni oppure 
+organizazzioni terroristiche. Verranno anche inserite missioni secondarie e il modo di completarle ma senza farvi troppi 
+spoiler su come completarle. ovvero vi darò le informazioni a metà. se vi vorrete lamentare o mi vorrete scrivere che sono un coglione usate questa mail: voisietedeicoglioni@gmail.com
+vi assicuro che funziona
+</body>
+<br>
+<a href="Aurelius Sombraferrea.html">Vai alla mia nuova pagina</a>
+<br>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj1i4nTgP__AhWkU6QEHZzrA1oQFnoECBAQAQ&url=https%3A%2F%2Fmail.google.com%2F%3Fhl%3Dit&usg=AOvVaw0sDqchuBRhk4zqys127I2r&opi=89978449">Visita il sito per scrivere le lamentele</a>
+</html>
